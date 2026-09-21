@@ -1,5 +1,4 @@
 # exp_1_study_of_microwave_components
-
 # Experiment 1 — Study of Microwave Components and Instruments
 
 ---
@@ -214,7 +213,6 @@ A short section of waveguide with a probe transition to coax mounted on the broa
 * Study the basic principle of operation of the devices and components.
 * Know the typical application of each component.
 * Identify the E-field and H-field mode patterns in these devices.
-
 
 ## Conclusion
 Microwave components have successfully been studied.
